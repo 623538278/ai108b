@@ -32,16 +32,17 @@ print("p = {}".format(p))
 
 weights = np.array([p[0], p[1]])
 bias = p[2]
-w1w2 = np.array([[0, 0],
+x1x2 = np.array([[0, 0],
                  [0, 1],
                  [1, 0],
                  [1, 1]])
 
-ans = np.dot(w1w2, weights) + bias
-result = []
+Q = np.dot(x1x2, weights) + bias
+ans = []
 
-for i in ans:
+for i in Q:
 
-    result.append(1) if i >= 0.5 else result.append(0)
+    result.append(1) if i <= 0.5 else ans.append(1)
 
 print(result)
+print("\n=======================================================================================================\n")
