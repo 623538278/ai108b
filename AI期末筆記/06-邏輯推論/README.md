@@ -3,7 +3,7 @@
 布林邏輯
 ----
 ### 簡介
-布林邏輯得名於 George Boole，他是考克大學（現愛爾蘭國立考克大學）的英國數學家，他在十九世紀中葉首次定義了邏輯的代數系統。布爾邏輯在電子學、電腦硬體和軟體中有很多應用。在 1937 年，Claude Shannon 展示了布爾邏輯如何在電子學中使用。
+布林邏輯得名於 George Boole，他是考克大學（現愛爾蘭國立考克大學）的英國數學家，他在十九世紀中葉首次定義了邏輯的代數系統。布爾邏輯在電子學、電腦硬體和軟體中有很多應用。在 1937 年，Claude Shannon 展示了布爾邏輯如何在電子學中使用。<br>
 <img src="https://bkimg.cdn.bcebos.com/pic/d50735fae6cd7b89fc848d8d0f2442a7d8330ed7?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg">
 <br>
 ****
